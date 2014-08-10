@@ -1,0 +1,8 @@
+IMPLEMENTED:
+	deep first search
+	bread first search
+	level order search
+TODO:
+	bidirection search
+	a-star search
+	my-search
